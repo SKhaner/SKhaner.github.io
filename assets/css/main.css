@@ -3240,19 +3240,19 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #005b96;
+			background-color: #5d034a;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #164778;
+			background-color: #5d034a;
 		}
 
 		.wrapper.style2 {
-			background-color: #2d7ebd;
+			background-color: #5d034a;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #266fa7;
+			background-color: #5d034a;
 		}
 
 		.wrapper.style3 {
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #03396c;
+		background: #5d034a;
 		cursor: default;
 		height: 100vh;
 		left: 0;
